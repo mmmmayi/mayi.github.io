@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ma Yi(马祎)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student in NUS (open to work)"
+  bio              : 
   location         : "Singapore"
   employer         :
   pubmed           : 
