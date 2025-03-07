@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Li Haizhou](https://www.colips.org/~eleliha/). With six years of experience in deep learning, my research specializes in speech processing. I obtained my B.Eng from Sichuan University in 2017 and my M.Eng from Shanghai Jiao Tong University in 2020. I am now seeking career opportunities.
+I am currently a final-year Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Li Haizhou](https://www.colips.org/~eleliha/). With six years of experience in deep learning, my research specializes in **speech processing**. I obtained my B.Eng from Sichuan University in 2017 and my M.Eng from Shanghai Jiao Tong University in 2020. **I am now seeking career opportunities**.
+
 My research focuses on extracting speaker information from speech with robustness in noisy environments and developing explainable speaker verification systems.  I have published multiple papers in conferences such as ICASSP and Interspeech<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. During my master’s, I built a deep learning model for detecting abnormal biological audio and deployed the model on an Android app with my supervisor [Li Yongfu](https://yongfu-li.github.io/biography.html). I have strong experience in both academic research and engineering applications.
 
 
