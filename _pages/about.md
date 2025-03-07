@@ -32,13 +32,21 @@ My research focuses on extracting speaker information from speech with robustnes
 <!---<div class='paper-box-text' markdown="1">-->
 
 [ExPO: Explainable Phonetic Trait-Oriented Network for Speaker Verification](https://arxiv.org/abs/2501.05729), **Yi Ma**, Shuai Wang, Tianchi Liu and Haizhou Li, IEEE Signal Processing Letters (SPL), 2025. [code](https://github.com/mmmmayi/ExPO)
+
 [Gradient weighting for speaker verification in extreme low Signal-to-Noise Ratio](https://arxiv.org/abs/2401.02626), **Yi Ma**, Kong Aik Lee, Ville Hautamaki, Meng Ge, Haizhou Li, International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. [code](https://github.com/mmmmayi/Grad-W)
+
 [How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?](https://arxiv.org/abs/2406.02483), Tianchi Liu, Lin Zhang, Rohan Kumar Das, **Yi Ma**, Ruijie Tao, Haizhou Li, Interspeech, 2024.
+
 [PL-EESR: Perceptual loss based end-to-end robust speaker representation extraction](https://arxiv.org/abs/2110.00940), **Yi Ma**, Kong Aik Lee, Ville Hautamaki, Haizhou Li, 2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [code](https://github.com/mmmmayi/PL-EESR)
+
 [LungRN+ NL: An improved adventitious lung sound classification using non-local block resnet neural network with mixup data augmentation](https://www.isca-archive.org/interspeech_2020/ma20_interspeech.html), **Yi Ma**, Xinzi Xu, Yongfu Li, Interspeech, 2020.
+
 [LungBRN: a Smart Digital Stethoscope for Detecting Respiratory Disease Using bi-ResNet Deep Learning Algorithm](https://ieeexplore.ieee.org/document/8919021), **Yi Ma**, Xinzi Xu, Qing Yu, Yuhang Zhang, Yongfu Li, Jian Zhao, Guoxing Wang, IEEE Biomedical Circuits and Systems Conference (BioCAS), 2019. [code](https://github.com/SJTU-YONGFU-RESEARCH-GRP/Lung-Sound-Classification-System-LungSys-I)
+
 [Live Demo: LungSys - Automatic Digital Stethoscope System For Adventitious Respiratory Sound Detection](https://ieeexplore.ieee.org/document/8918752), **Yi Ma**, Xinzi Xu, Qing Yu, Yuhang Zhang, Yongfu Li, Jian Zhao, Guoxing Wang, IEEE Biomedical Circuits and Systems Conference (BioCAS), 2019. [code](https://github.com/SJTU-YONGFU-RESEARCH-GRP/Lung-Sound-Classification-System-LungSys-I)
+
 [Enhancing speech recognition for Parkinson’s disease patient using transfer learning technique](https://link.springer.com/article/10.1007/s12204-021-2376-3), Qing Yu, **Yi Ma**,  Yongfu Li, Journal of Shanghai Jiaotong University (Science), 2022. 
+
 [LungAttn: advanced lung sound classification using attention mechanism with dual TQWT and triple STFT spectrogram](https://iopscience.iop.org/article/10.1088/1361-6579/ac27b9/meta), Jizuo Li, Jiajun Yuan, Hansong Wang, Shijian Liu, Qianyu Guo, **Yi Ma**, Yongfu Li, Liebin Zhao and Guoxing Wang, Physiological Measurement, 2021. 
 
 # 🎖 Honors and Awards
