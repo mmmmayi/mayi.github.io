@@ -62,9 +62,11 @@ My research focuses on extracting speaker information from speech with robustnes
 <!--# 💬 Invited Talks-->
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+
 # 👔 Internships
 - *2024.11 - 2025.05*,Huawei, Singapore.
 - *2020.05 - 2020.08*,Pingan Technology, Shangha, China.
+- 
 # 💻 Open Source Code
 - [*Speaker Verification Framework with Passive Explanation*](https://github.com/mmmmayi/ExPO)
 - [*Robust Speaker Verification Framework Under Noisy Conditions*](https://github.com/mmmmayi/Grad-W)
