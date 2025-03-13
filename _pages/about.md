@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a final-year Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Li Haizhou](https://www.colips.org/~eleliha/). With six years of experience in deep learning, my research specializes in **speech processing**. I obtained my B.Eng from Sichuan University in 2017 and my M.Eng from Shanghai Jiao Tong University in 2020. **I am now seeking career opportunities**.
 
-My research focuses on extracting speaker information from speech with robustness in noisy environments and developing explainable speaker verification systems.  I have published multiple papers in conferences such as ICASSP and Interspeech<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. During my master’s, I built a deep learning model for detecting abnormal biological audio and deployed the model on an Android app with my supervisor [Li Yongfu](https://yongfu-li.github.io/biography.html). I have strong experience in both academic research and engineering applications.
+My research focuses on extracting speaker information from speech with robustness in noisy environments and developing explainable speaker verification systems.  I have published multiple papers in conferences such as ICASSP and Interspeech<a href='https://scholar.google.com/citations?user=Xt0xIP4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. During my master’s, I built a deep learning model for detecting abnormal biological audio and deployed the model on an Android app with my supervisor [Li Yongfu](https://yongfu-li.github.io/biography.html). I have strong experience in both academic research and engineering applications.
 
 
 
@@ -50,17 +50,23 @@ My research focuses on extracting speaker information from speech with robustnes
 
 [LungAttn: advanced lung sound classification using attention mechanism with dual TQWT and triple STFT spectrogram](https://iopscience.iop.org/article/10.1088/1361-6579/ac27b9/meta), Jizuo Li, Jiajun Yuan, Hansong Wang, Shijian Liu, Qianyu Guo, **Yi Ma**, Yongfu Li, Liebin Zhao and Guoxing Wang, Physiological Measurement, 2021. 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!---# 🎖 Honors and Awards-->
+<!---- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!---- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.08 - now*, Ph.D. in National University of Singapore (NUS), Singapore. 
+- *2017.09 - 2020.03*, M.Sc. in Shanghai Jiao Tong University, Shanghai, China.
+- *2013.09 - 2017.06*, B.Eng. in Electronic Information Engineer, Sichuan Universiy, Sichuan, China.
 
 <!--# 💬 Invited Talks-->
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👔 Internships
+- *2024.11 - 2025.05*,Huawei, Singapore.
+- *2020.05 - 2020.08*,Pingan Technology, Shangha, China.
+# 💻 Open Source Code
+- [*Speaker Verification Framework with Passive Explanation*](https://github.com/mmmmayi/ExPO)
+- [*Robust Speaker Verification Framework Under Noisy Conditions*](https://github.com/mmmmayi/Grad-W)
+- [*Speaker Verification Framework trained with Metric Learning Objectives*](https://github.com/mmmmayi/LightWespeaker_Prototypical)
+- [*Abnormal Acoustic Detection and Deployment on an Android Application*](https://github.com/SJTU-YONGFU-RESEARCH-GRP/Lung-Sound-Classification-System-LungSys-I)
