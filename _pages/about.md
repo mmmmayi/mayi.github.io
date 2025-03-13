@@ -29,8 +29,6 @@ My research focuses on extracting speaker information from speech with robustnes
 
 # 📝 Publications 
 
-<!---<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>-->
-<!---<div class='paper-box-text' markdown="1">-->
 
 [ExPO: Explainable Phonetic Trait-Oriented Network for Speaker Verification](https://arxiv.org/abs/2501.05729), **Yi Ma**, Shuai Wang, Tianchi Liu and Haizhou Li, IEEE Signal Processing Letters (SPL), 2025. [code](https://github.com/mmmmayi/ExPO)
 
