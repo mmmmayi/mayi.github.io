@@ -64,7 +64,7 @@ My research focuses on extracting speaker information from speech with robustnes
 # 👔 Internships
 - *2024.11 - 2025.05*,Huawei, Singapore.
 - *2020.05 - 2020.08*,Pingan Technology, Shangha, China.
-- 
+  
 # 💻 Open Source Code
 - [*Speaker Verification Framework with Passive Explanation*](https://github.com/mmmmayi/ExPO)
 - [*Robust Speaker Verification Framework Under Noisy Conditions*](https://github.com/mmmmayi/Grad-W)
