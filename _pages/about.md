@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. candidate at the National University of Singapore (NUS), supervised by Professor [Li Haizhou](https://www.colips.org/~eleliha/). With six years of experience in deep learning, my research specializes in **speech processing**. I obtained my B.Eng from Sichuan University in 2017 and my M.Eng from Shanghai Jiao Tong University in 2020. **I am now seeking career opportunities**.
+I received my Ph.D. from the National University of Singapore (NUS), where I was supervised by Professor [Li Haizhou](https://www.colips.org/~eleliha/). I am currently a researcher at A*STAR, working on speech generation technologies for Southeast Asian languages. 
 
-My research focuses on extracting speaker information from speech with robustness in noisy environments and developing explainable speaker verification systems.  I have published multiple papers in conferences such as ICASSP and Interspeech<a href='https://scholar.google.com/citations?user=Xt0xIP4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. During my master’s, I built a deep learning model for detecting abnormal biological audio and deployed the model on an Android app with my supervisor [Li Yongfu](https://yongfu-li.github.io/biography.html). I have strong experience in both academic research and engineering applications.
+My current research focuses on language-model-based speech generation, where large language models predict discrete acoustic tokens to synthesize speech. I work across the full system pipeline, including large-scale pretraining post-training optimization using reinforcement learning methods such as GRPO to improve speech naturalness and robustness.
 
+During my PhD, my research focused on speaker verification, particularly on improving robustness in noisy environments and developing explainable AI techniques to interpret speaker embedding models. My work has been published in major speech processing conferences such as ICASSP and Interspeech<a href='https://scholar.google.com/citations?user=Xt0xIP4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
+I obtained my B.Eng. from Sichuan University in 2017 and M.Eng. from Shanghai Jiao Tong University in 2020. During my master’s studies, I worked on bio-acoustic signal processing, developing a deep learning system for detecting abnormal biological sounds and deploying the model in an Android application with my supervisor Professor [Li Yongfu](https://yongfu-li.github.io/biography.html). 
+
+My research interests broadly lie in speech processing, generative speech models, and speech foundation models, with the goal of bridging cutting-edge research and practical real-world speech applications.
 
 <!-- # 🔥 News-->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
